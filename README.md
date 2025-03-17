@@ -2,9 +2,7 @@
 
 ## Urasinov Daniil - YouTube and beginner Python - Developer
 
-### Latest videos
-
-# Blog posts
+### Latest YouTube videos
 <!-- YOUTUBE:START -->
 - [как я переехал в Питер в 18 лет](https://www.youtube.com/watch?v=FXYriY6Ch_U)
 - [посмотри это видео пока тебе нет 18 лет](https://www.youtube.com/watch?v=7aegc0gnvPA)
