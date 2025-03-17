@@ -6,7 +6,6 @@
 
 # Blog posts
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
