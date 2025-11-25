@@ -8,6 +8,7 @@
 
 ### Последние видео на YouTube
 <!-- YOUTUBE:START -->
+- [кто такой данюня?](https://www.youtube.com/watch?v=fg0wPBjztV4)
 - [карелия на авось - заброшенная кирха и ночь в тачке](https://www.youtube.com/watch?v=KfME_as6bL0)
 - [как я нашел первую работу &lpar;и начал зарабатывать!&rpar;](https://www.youtube.com/watch?v=IHRpmhRUaxc)
 - [как я переехал в Питер в 18 лет](https://www.youtube.com/watch?v=FXYriY6Ch_U)
