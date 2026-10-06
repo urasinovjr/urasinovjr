@@ -1,42 +1,49 @@
-[![Header](https://github.com/urasinovjr/urasinovjr/blob/main/assets/2c07bf8d248660e02c50d753cabc091e.png)](https://www.youtube.com/@danunyaaa)
+<img width="100%" alt="Даниил Урасинов, QA Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e1b4b,100:6d28d9&text=%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB%20%D0%A3%D1%80%D0%B0%D1%81%D0%B8%D0%BD%D0%BE%D0%B2&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Playwright%20%C2%B7%20Python%20%C2%B7%20TypeScript&descSize=18&descAlignY=60" />
 
-## Привет! Я Даня
+## Привет, я Даня
 
-Учусь в магистратуре МФТИ и одновременно кодю на Python. Создаю всякое полезное: боты для автоматизации, API на FastAPI, приложения для упрощения жизни. В перерывах между учебой и разработкой рубаюсь в FIFA и снимаю видосы на YouTube (спойлер: не про код, а про жизнь).
+QA Engineer. Тестирую мобильные и веб-приложения вручную и пишу UI-автотесты на Playwright (TypeScript и Python).
 
-На GitHub лежат мои проекты - от трекеров задач до AI-ботов. Если что-то можно автоматизировать, я это автоматизирую.
+Сейчас работаю QA в геймдеве: тестирую мобильную 4X-игру на Unity с живым сервисом, iOS и Android, релиз раз в две недели. До этого был единственным тестировщиком на пяти клиентских проектах: спортивная платформа, бронирование отелей с арабской локализацией, страховое приложение и система видеонаблюдения с e2e-тестами на Playwright.
 
-### Последние видео на YouTube
-<!-- YOUTUBE:START -->
-- [кто такой данюня?](https://www.youtube.com/watch?v=fg0wPBjztV4)
-- [карелия на авось - заброшенная кирха и ночь в тачке](https://www.youtube.com/watch?v=KfME_as6bL0)
-- [как я нашел первую работу &lpar;и начал зарабатывать!&rpar;](https://www.youtube.com/watch?v=IHRpmhRUaxc)
-- [как я переехал в Питер в 18 лет](https://www.youtube.com/watch?v=FXYriY6Ch_U)
-- [посмотри это видео пока тебе нет 18 лет](https://www.youtube.com/watch?v=7aegc0gnvPA)
-<!-- YOUTUBE:END -->
+Начинал с бэкенда на Python и FastAPI. Это помогает при разборе бага: смотрю запросы к API, данные в базе и логи.
 
----
+## Стек
 
-### Языки и технологии
+<p>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,go,postgres,docker,git,githubactions,linux,postman,androidstudio,apple,unity&theme=dark" />
+      <img alt="Python, TypeScript, JavaScript, Go, PostgreSQL, Docker, Git, GitHub Actions, Linux, Postman, Android Studio, Apple, Unity" src="https://skillicons.dev/icons?i=python,ts,js,go,postgres,docker,git,githubactions,linux,postman,androidstudio,apple,unity&theme=light" />
+    </picture>
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Автоматизация: `Playwright` `pytest` `Page Object` `фикстуры` `Playwright MCP`
+- API: `REST` `HTTP` `Postman` `Swagger / OpenAPI` `Chrome DevTools`
+- Мобильное тестирование: `iOS` `Android` `Xcode` `Android Studio` `logcat` `реальные устройства`
+- Данные: `SQL` `PostgreSQL` `ClickHouse`
+- CI/CD и инфраструктура: `Git` `GitLab` `GitHub Actions` `TeamCity` `Docker` `Linux`
+- Процессы: `тест-дизайн` `тест-кейсы и чек-листы` `баг-репорты` `регресс и смоук` `Jira` `Confluence` `Scrum`
 
----
+<!-- Сюда добавить публичный проект автотестов, когда он появится:
+## Проекты
 
-### Статистика GitHub
+| Проект | Что внутри |
+|---|---|
+| [название](https://github.com/urasinovjr/название) | UI и API-тесты на Python + Playwright, Allure-отчёт, прогон в GitHub Actions |
+-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urasinovjr&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+## Образование
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urasinovjr&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+- МФТИ, магистратура, информатика и вычислительная техника (2027)
+- ДГТУ, аспирантура, искусственный интеллект и машинное обучение (2027)
+- ПГУПС, бакалавриат по информатике и вычислительной технике и специалитет по электрическому транспорту (2024)
+- Курс Авито «QA-engineer: ручное и автоматизированное тестирование» (2026)
 
----
+## Контакты
 
-### Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-uras1nov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uras1nov)
+[![YouTube](https://img.shields.io/badge/YouTube-danunyaaa-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@danunyaaa)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danunyaaa)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danunyaaa)
+Вне работы веду YouTube-канал о жизни.
